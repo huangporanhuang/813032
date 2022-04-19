@@ -13,7 +13,7 @@ double power(double x, int q) {
         //this line should do some operation to achieve multiplications
         //only ONE line to be ADD
         //please refer to page 8 of Operation slides to get some idea
-      m += i;
+     m *= x;
     }
     return m;
 }

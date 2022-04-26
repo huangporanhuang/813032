@@ -66,3 +66,4 @@ POINT_VALUE       = 100
 POINT_MARGIN      = 10
 
 # Font size for all strings (score, pause, game over)
+FONT_SIZE           = 25
